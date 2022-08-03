@@ -1,3 +1,3 @@
-# color-roulette
-##Simple background color randomizer.
-Try it [here]
+# Color roulette
+## Simple background color randomizer with hex values.
+Try it [here]()
